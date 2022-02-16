@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<te>
+<price-trends>
+<state>Ahmedabad </state>
+<price-range>Rs.393-72,000/sqft</price-range>
+<price-rise> 84.3% </price-rise>
+</price-trends>
+
+<price-trends>
+<state>Banglore </state>
+<price-range>Rs.215-95,146/sqft</price-range>
+<price-rise> 90.3% </price-rise>
+</price-trends>
+
+<price-trends>
+<state>Chennai </state>
+<price-range>Rs.400-1,02,331/sqft</price-range>
+<price-rise> 64.8% </price-rise>
+</price-trends>
+
+<price-trends>
+<state>Hyderabad</state>
+<price-range>Rs.200-1,00,000/sqft</price-range>
+<price-rise> 49.8% </price-rise>
+</price-trends>
+
+<price-trends>
+<state>Indore</state>
+<price-range>Rs.550-53,000/sqft</price-range>
+<price-rise> 91.8%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Kolkata</state>
+<price-range>Rs.300-1,70,000/sqft</price-range>
+<price-rise> 4.7%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Mumbai</state>
+<price-range>Rs.550-2,25,193/sqft</price-range>
+<price-rise> 95.5%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Noida</state>
+<price-range>Rs.150-1,20,075/sqft</price-range>
+<price-rise> 33.6%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Pune</state>
+<price-range>Rs.345-2,00,000/sqft</price-range>
+<price-rise> -16.3%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Lucknow</state>
+<price-range>Rs.504-59,492/sqft</price-range>
+<price-rise> 18.9%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Chandigarh</state>
+<price-range>Rs.265-33,899/sqft</price-range>
+<price-rise> -18.8%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Nagpur</state>
+<price-range>Rs.202-35,123/sqft</price-range>
+<price-rise> -4.7%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Goa</state>
+<price-range>Rs.1,407-31,333/sqft</price-range>
+<price-rise> -24.2%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Jaipur</state>
+<price-range>Rs.736-38,700/sqft</price-range>
+<price-rise> 46.7%</price-rise>
+</price-trends>
+
+<price-trends>
+<state>Trivandrum</state>
+<price-range>Rs.382-9,306/sqft</price-range>
+<price-rise> 32.9%</price-rise>
+</price-trends>
+</te>
